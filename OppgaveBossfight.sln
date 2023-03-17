@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveBossfight", "OppgaveBossfight\OppgaveBossfight.csproj", "{CFD57DD5-9973-4376-A751-E08A4616BBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD57DD5-9973-4376-A751-E08A4616BBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD57DD5-9973-4376-A751-E08A4616BBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD57DD5-9973-4376-A751-E08A4616BBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD57DD5-9973-4376-A751-E08A4616BBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D52512-1B78-4D7C-84EF-BA7B7C9AE3C3}
+	EndGlobalSection
+EndGlobal
